@@ -92,7 +92,7 @@ O `radarmotu-app` funciona como um dashboard operacional completo, fornecendo ao
 
 | Mapa do Pátio (Dashboard) | Radar de Proximidade (Output Real-Time) |
 | :---: | :---: |
-| ![Mapa do Pátio](https://i.imgur.com/Bf0s07t.jpeg) | ![Radar de Proximidade](https://i.imgur.com/b97j0hD.jpeg) |
+| ![Mapa do Pátio](./assets/Image/mapa-do-patio.jpg) | ![Radar de Proximidade](/assets/Image/radar-de-proximidade.jpg) |
 
 
 ### ✅ Persistência e Estruturação dos Dados | `(até 20 pts)`
