@@ -2,7 +2,17 @@
 
 ### *Sua frota sob controle, seu pátio na palma da mão.*
 
-![Arquitetura da Solução Radar Motu](https://i.imgur.com/L53T4t8.jpeg)
+
+## 👨‍💻👩‍💻👩‍💻 Equipe de Desenvolvimento**
+
+| Nome                  | RM     | Turma   |                                                                                      
+| Paulo André Carminati | 557881 | 2-TDSPZ | 
+| Arthur Bispo de Lima  | 557568 | 2-TDSPV | 
+| João Paulo Moreira    | 557808 | 2-TDSPV |
+
+---
+
+![Arquitetura da Solução Radar Motu](./assets/images/arquitetura-solucao.png)
 *Diagrama da arquitetura da solução, demonstrando o fluxo de dados do dispositivo IoT (TAG BLE) até a interface do operador.*
 
 ---
@@ -256,13 +266,3 @@ Escanear o QR Code com o app Expo Go no seu celular.
 Ou, para rodar diretamente no emulador/dispositivo USB:
 
 npx expo run:android
-
-## <a name="equipe"></a> **👨‍💻👩‍💻👩‍💻 Equipe de Desenvolvimento**
-
-| Nome                  | RM     | Turma   |                                                                                      
-| Paulo André Carminati | 557881 | 2-TDSPZ | 
-| Arthur Bispo de Lima  | 557568 | 2-TDSPV | 
-| João Paulo Moreira    | 557808 | 2-TDSPV |
-
----
-
