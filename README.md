@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Radar Motu: Sistema de Localização Veicular Indoor de Alta Precisão
 
 ### *Sua frota sob controle, seu pátio na palma da mão.*
@@ -266,3 +267,4 @@ npx expo run:android
 | João Paulo Moreira    | 557808 | 2-TDSPV | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/joao1015)      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao1015/)                            | <img src="https://drive.google.com/uc?export=view&id=1gmkgpPkJQsJ2TPbciHs1B8m1aMr-bHjq" alt="João Paulo" width="100">   |
 
 ---
+
