@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 Radar Motu: Sistema de Localização Veicular Indoor de Alta Precisão
 
 ### *Sua frota sob controle, seu pátio na palma da mão.*
@@ -260,11 +259,10 @@ npx expo run:android
 
 ## <a name="equipe"></a> **👨‍💻👩‍💻👩‍💻 Equipe de Desenvolvimento**
 
-| Nome                  | RM     | Turma   | Repositório                                                                                                                      | Contato                                                                                                                                                                | Foto                                                                                                                    |
-| --------------------- | ------ | ------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Paulo André Carminati | 557881 | 2-TDSPZ | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/carmipa)       | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-andr%C3%A9-carminati-47712340/) | <img src="https://drive.google.com/uc?export=view&id=1YeoCXRTEnQAWQYlob_C1OE_AKlMcJ8E5" alt="Paulo André" width="100">  |
-| Arthur Bispo de Lima  | 557568 | 2-TDSPV | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ArthurBispo00) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-bispo-41364b207/)              | <img src="https://drive.google.com/uc?export=view&id=1sSSuuBP1aRZS2cY-2yrOy0dlknXZ78Sc" alt="Arthur Bispo" width="100"> |
-| João Paulo Moreira    | 557808 | 2-TDSPV | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/joao1015)      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao1015/)                            | <img src="https://drive.google.com/uc?export=view&id=1gmkgpPkJQsJ2TPbciHs1B8m1aMr-bHjq" alt="João Paulo" width="100">   |
+| Nome                  | RM     | Turma   |                                                                                      
+| Paulo André Carminati | 557881 | 2-TDSPZ | 
+| Arthur Bispo de Lima  | 557568 | 2-TDSPV | 
+| João Paulo Moreira    | 557808 | 2-TDSPV |
 
 ---
 
