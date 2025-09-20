@@ -12,7 +12,7 @@
 
 ---
 
-![Arquitetura da Solução Radar Motu](./assets/images/arquitetura-solucao.png)
+![Arquitetura da Solução Radar Motu](./assets/Image/arquitetura-solucao.png)
 *Diagrama da arquitetura da solução, demonstrando o fluxo de dados do dispositivo IoT (TAG BLE) até a interface do operador.*
 
 ---
